@@ -1,0 +1,98 @@
+const CATALOG = [
+  {
+    id: "el1",
+    name: "Casio Collection MQ-38-2A",
+    img: "img/catalog/MQ-38-2A.bmp",
+    price: 1720,
+  },
+  {
+    id: "el2",
+    name: "Q&Q C08A-011PY",
+    img: "img/catalog/C08A-011PY.bmp",
+    price: 1740,
+  },
+  {
+    id: "el3",
+    name: "Casio Collection MQ-24-9E",
+    img: "img/catalog/MQ-24-9E.bmp",
+    price: 1750,
+  },
+  {
+    id: "el4",
+    name: "Умные часы Microwear W66MB",
+    img: "img/catalog/W66MB.bmp",
+    price: 1980,
+  },
+  {
+    id: "el5",
+    name: "Casio Illuminator F-91WM-1B",
+    img: "img/catalog/F-91WM-1B.bmp",
+    price: 2140,
+  },
+  {
+    id: "el6",
+    name: "Q&Q A480J304Y",
+    img: "img/catalog/A480J304Y.bmp",
+    price: 2180,
+  },
+  {
+    id: "el7",
+    name: "Microwear W26S",
+    img: "img/catalog/W26S.bmp",
+    price: 2190,
+  },
+  {
+    id: "el8",
+    name: "Swiss Military Hanowa 06-4332.04.003.05",
+    img: "img/catalog/06-4332.04.003.05.bmp",
+    price: 40600,
+  },
+  {
+    id: "el9",
+    name: "Diesel DZ4648",
+    img: "img/catalog/DZ4648.bmp",
+    price: 40690,
+  },
+  {
+    id: "el10",
+    name: "Graham 2SXAK.G01A.K137T",
+    img: "img/catalog/2SXAK.G01A.K137T.bmp",
+    price: 1020850,
+  },
+  {
+    id: "el11",
+    name: "Graham 2CCBK.B30A.K125K",
+    img: "img/catalog/2CCBK.B30A.K125K.bmp",
+    price: 1182890,
+  },
+  {
+    id: "el12",
+    name: "TAG Heuer Carrera CAR2C90.FC6341",
+    img: "img/catalog/CAR2C90.FC6341.bmp",
+    price: 1222000,
+  },
+  {
+    id: "el13",
+    name: "NIKA 1102.0.3.45",
+    img: "img/catalog/1102.0.3.45.bmp",
+    price: 1253500,
+  },
+  {
+    id: "el14",
+    name: "NIKA 1102.4.2.81",
+    img: "img/catalog/1102.4.2.81.bmp",
+    price: 1256000,
+  },
+  {
+    id: "el15",
+    name: "CVSTOS Challenge-SeaLiner-Steel",
+    img: "img/catalog/CVSTOS.bmp",
+    price: 1851500,
+  },
+  {
+    id: "el16",
+    name: "TAG Heuer Monaco WAW2081.FC6348",
+    img: "img/catalog/WAW2081.FC6348.bmp",
+    price: 19750000,
+  },
+];
