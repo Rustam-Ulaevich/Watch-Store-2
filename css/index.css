@@ -1,6 +1,7 @@
 :root {
   --color-ligth: rgb(234, 237, 255);
   --color-white: #fff;
+  --color-unaccent: #858181;
 
   --spacing-small: 10px;
   --spacing-medium: 15px;

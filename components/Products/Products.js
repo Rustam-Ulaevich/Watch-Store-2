@@ -6,9 +6,9 @@ class Products {
       htmlCatalog += `
         <li class = 'products-element'>
           <span class = 'products-element__name'>${name}</span>
-          <img class = 'products-element__img' src='${img}'
-          <span class = 'products-element_price'>${price}</span>
-          <button class = 'products-element_btn'>Add to cart</button>
+          <img class = 'products-element__img' src='${img}' />
+          <span class = 'products-element__price'>${price.toLocaleString()} рублей</span>
+          <button class = 'products-element__btn'>Add to cart</button>
         </li>
         `;
     });
